@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+jinja2
+reportlab
+PyPDF2
+requests
+sqlalchemy
+email-validator
